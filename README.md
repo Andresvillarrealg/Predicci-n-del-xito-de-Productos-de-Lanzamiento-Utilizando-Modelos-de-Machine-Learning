@@ -1,6 +1,6 @@
 # Inteligencia Artificial Avanzada para la Ciencia de Datos II
 
-## Reto - Arca Continental 
+## Predicción del Éxito de Productos de Lanzamiento Utilizando Modelos de Machine Learning 
 
 ### Equipo 5 - Tecnológico de Monterrey (Séptimo semestre)
 
